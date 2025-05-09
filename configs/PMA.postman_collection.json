@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "b4dc0f5a-fa7b-40d3-8702-54df842f2307",
+		"name": "PMA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37636976"
+	},
+	"item": [
+		{
+			"name": "Listar",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
